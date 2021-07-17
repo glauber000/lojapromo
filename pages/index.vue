@@ -30,7 +30,7 @@
       Enviar
     </v-btn>
   </v-form>
-  </br>
+
     <v-container>    
       <v-carousel>
         <v-carousel-item
