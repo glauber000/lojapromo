@@ -8023,6 +8023,8 @@ async function createApp(ssrContext, config = {}) {
 
   const app = {
     head: {
+      "target": "static",
+      "mode": "spa",
       "titleTemplate": "%s - gama_app",
       "title": "gama_app",
       "htmlAttrs": {
