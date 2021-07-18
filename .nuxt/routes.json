@@ -1,0 +1,16 @@
+[
+  {
+    "name": "produtos",
+    "path": "/produtos",
+    "component": "C:\\\\site\\\\gama_app\\\\pages\\\\produtos.vue",
+    "chunkName": "pages/produtos",
+    "_name": "_61373e5c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\site\\\\gama_app\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_0f9ea86c"
+  }
+]
