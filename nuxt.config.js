@@ -4,7 +4,7 @@ export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   target: 'static',
   head: {
-    titleTemplate: '%s - gama_app',
+    titleTemplate: 'LOJAO DAS PROMOCOES',
     title: 'gama_app',
     htmlAttrs: {
       lang: 'en'
