@@ -2,11 +2,8 @@ import colors from 'vuetify/es5/util/colors'
 
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
+  target: 'static',
   head: {
-    target: 'static',
-    router:{
-      base: 'glauber000.github.io'
-    },
     titleTemplate: '%s - gama_app',
     title: 'gama_app',
     htmlAttrs: {
