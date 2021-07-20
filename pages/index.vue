@@ -83,37 +83,37 @@
         ],
         elevations: [0, 1, 1, 1, 1, 1],
         produtos:[{
-          elevation: 1,
+          elevation: 2,
           img: '/furadeira.jpg',
           price: 'R$150,00',
           title:'Furadeira'
         },
         {
-          elevation: 1,
+          elevation: 2,
           img: '/pneu.jpg',
           price: 'R$270,95',
           title:'Pneu'
         },
         {
-          elevation: 1,
+          elevation: 2,
           img: '/caixa.jpg',
           price: 'R$99,00',
           title:'Cx. de Ferramentas'
         },
         {
-          elevation: 1,
+          elevation: 2,
           img: '/ferro.jpg',
           price: 'R$25,00',
           title:'Ferro de Solda'
         },
         {
-          elevation: 1,
+          elevation: 2,
           img: '/lamp.jpg',
           price: 'R$7,99',
           title:'Lâmpada de Led'
         },
         {
-          elevation: 1,
+          elevation: 2,
           img: '/soprador.jpg',
           price: 'R$115,00',
           title:'Soprador Térmico'
