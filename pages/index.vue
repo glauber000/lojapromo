@@ -31,17 +31,7 @@
     </v-btn>
   </v-form>
 
-    <v-container>    
-      <v-carousel>
-        <v-carousel-item
-          v-for="(item,i) in imagens"
-          :key="i"
-          :src="item"
-          reverse-transition="fade-transition"
-          transition="fade-transition"
-        ></v-carousel-item>
-      </v-carousel>
-    </v-container>
+    <carroca :img="imagens"></carroca>
 
       <v-container>
         <v-row justify="space-around">
@@ -144,6 +134,7 @@
       methods: {
       validate () {
         this.$refs.form.validate()
+        alert('CADASTRADO COM SUCESSO!')
       },
     },
   }  
